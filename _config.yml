@@ -1,0 +1,28 @@
+name: Unashamedly You
+favicon: null
+layout_spectrum: 0.23749307449907064
+typography_spectrum: 0.7638179955538362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.15179640497080982
+  lightness: 0.9526607987936586
+  saturation: 0.8519014266785234
+  rhythmicContrast: 0.0012971952091902494
+purpose: []
